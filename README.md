@@ -4,6 +4,12 @@
 
 An E-mail client for the Android (java) platform. Supports imap, pop, and smtp protocols, through SSL/TLS.
 
+# Download
+
+You can download the application directly from GitHub by visiting ![this link](https://github.com/itprojects/InboxPager/tree/apk-direct).
+
+Alternatively you can find [InboxPager](https://f-droid.org/repository/browse/?fdfilter=inbox&fdid=net.inbox.pager) in the F-droid app store.
+
 # Usage
 
 In order to use this application you have to enable application-email-checking through your server's web interface. Some email servers may have this feature already turned on (NOT GMAIL!, see below). If your account's server does not support this feature, it won't work.
